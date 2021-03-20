@@ -1,0 +1,40 @@
+
+title {
+    text-align: center;
+    margin-left: 1000px;
+	margin: 1000px;
+    color: rgb(4, 3, 61);
+}
+.intro{
+background-color: #04a396;
+margin-left: 10px;
+color: rgb(4, 3, 61);
+
+}
+#action
+{
+    color: rgb(4, 3, 61);
+    text-align: left;
+  }
+
+#CHAR
+{
+    color: rgb(4, 3, 61);
+    text-align: center;
+  }
+body {
+    background-color: #04a396;
+    color: rgb(10, 2, 87);
+    margin-left: 100px;
+	margin: 100px;
+	padding: 1100 px;
+	border: 0;
+	font-size: 100%;
+    font:icon ;
+	font-style: normal;
+	text-align: center;
+    line-height: 1.5;
+}
+article {
+	display: block;
+}
